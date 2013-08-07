@@ -1,0 +1,20 @@
+.nextgen_pro_blog_gallery {
+	text-align: center;
+	line-height: normal;
+}
+.nextgen_pro_blog_gallery .image-wrapper {
+	display: inline-block;
+	font-size: 0px;
+	max-width: 100% !important;
+}
+.nextgen_pro_blog_gallery a {
+	max-width: 100% !important;
+}
+.nextgen_pro_blog_gallery img {
+	max-width: 100% !important;
+	border: 0;
+}
+.nextgen_pro_blog_gallery .image-wrapper .ngg-trigger-buttons {
+	clear: both;
+	margin: 5px auto 10px auto;
+}

@@ -1,0 +1,22 @@
+.ngg-pro-masonry {
+    width: 100%;
+    height: 100%;
+    line-height: 0;
+    margin: 0 auto;
+}
+.ngg-pro-masonry-item {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+.ngg-pro-masonry-item a {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+.ngg-pro-masonry-item a img {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    border: none;
+}

@@ -1,0 +1,15 @@
+NextGEN Pro
+by Photocrati Media
+
+= V1.0 - 07.30.2013 =
+NEW:     Added Pro Lightbox, with social sharing and commenting functionality
+NEW:     Added Pro Blog Style display type
+NEW:     Added Pro Thumbnail Grid Style display type
+NEW:     Added Pro List & Grid Album display types
+NEW:     Added Pro Film display type
+NEW:     Added Galleria Display Type Engine
+NEW:     Added Pro Horizontal Filmstrip display type
+NEW:     Added Pro Slideshow display type
+NEW:     Added Pro Masonry display type
+Changed: Since Beta #1, we're using a new Installer and Settings Manager implementation
+Changed: Since Beta #1, we cache the final rendering output of display galleries
